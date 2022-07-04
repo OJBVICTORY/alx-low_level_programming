@@ -1,6 +1,8 @@
 #include<stdio.h>
 /**
- *comment sections
+ *Main-entry point
+ *
+ *return: always zero (Success)
  */
 int main(void)
 {
